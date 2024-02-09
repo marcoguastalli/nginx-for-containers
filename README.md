@@ -1,2 +1,2 @@
 # nginx-for-containers
-nginx configurations for containers like docker
+nginx's configurations for containers like docker
